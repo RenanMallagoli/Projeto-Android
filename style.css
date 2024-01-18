@@ -55,7 +55,7 @@ header  p{
     margin: auto; /*centralizar o paragrafo*/
     padding: 0px 10px;
     text-shadow: 4px 4px 3px #063d1e;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
 }
 nav{
     color: rgb(255, 255, 255);
